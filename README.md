@@ -2,13 +2,15 @@
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">GitHub Readme Stats</h2>
 <p>
-### Hi, I'm Show 👋
+
+[![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")](http://streak-stats.demolab.com/demo/)
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
     <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
+<p align ="center">### Hi, I'm Show 👋</p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I’m a software engineer with concentration in Backend Web and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Golang. I work as a backend engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
