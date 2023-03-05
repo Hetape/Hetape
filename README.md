@@ -1,6 +1,9 @@
-
+<p align="center">
+    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+    <h2 align="center">GitHub Readme Stats</h2>
+<p>
 ### Hi, I'm Show 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hetape&theme=elegant&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I’m a software engineer with concentration in Backend Web and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Golang. I work as a backend engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
