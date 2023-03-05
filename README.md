@@ -3,7 +3,7 @@
     <h2 align="center">GitHub Readme Stats</h2>
 <p>
 
-[![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")](http://streak-stats.demolab.com/demo/)
+[![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")]
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
     <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
