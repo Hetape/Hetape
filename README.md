@@ -3,14 +3,19 @@
     <h2 align="center">GitHub Readme Stats</h2>
 <p>
 ### Hi, I'm Show 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hetape&theme=elegant&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I’m a software engineer with concentration in Backend Web and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Golang. I work as a backend engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
 - 🔭 I’m currently working on my ideas and Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Golang or blockchain project.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, Golang, API design and Blockachain technology.
-- 📫 How to reach me: samwise858@gmail.com or Twitter [samshandle_](https://twitter.com/samshandle_)
+- 📫 How to reach me: hetape.october@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 
