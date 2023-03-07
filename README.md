@@ -64,7 +64,6 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter"  alt="CodeIgniter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp; </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showbaba&show_icons=true&locale=en" alt="showbaba" /></p>
 
 ## 🤗 Contributing
 
