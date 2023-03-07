@@ -9,7 +9,7 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
-<p align ="center">Hi, I'm Show 👋</p>
+<p align ="center">👋 Hi, I'm Hetape 👋</p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I’m a software engineer with concentration in Backend Web and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Golang. I work as a backend engineer building large scale distributed systems. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
@@ -20,7 +20,7 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showbaba&show_icons=true&locale=en" alt="showbaba" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,6 +63,8 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter"  alt="CodeIgniter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp; </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showbaba&show_icons=true&locale=en" alt="showbaba" /></p>
 
 ## 🤗 Contributing
 
